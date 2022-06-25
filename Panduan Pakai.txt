@@ -1,0 +1,6 @@
+1. Versi PHP yang digunakan disarankan pakai 5.6, agar fitur berjalan semua 
+2. Untuk login,  
+   username : hanif12
+   password : hanif123
+3. baseurl pada file config.php misal nanti nama foldernya berbeda diganti sesuai nama folder yang baru
+4. Database sqlnya ada pada folder database
